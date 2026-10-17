@@ -33,7 +33,9 @@ The original dataset is intentionally excluded from this repository because of i
 - [x] Checked missing values.
 - [x] Examined laundering label distribution.
 - [x] Summarized transaction amounts.
-- [ ] Analyze payment types and transaction patterns.
+- [x] Analyzed payment types and transaction patterns.
+- [x] Analyzed sender and receiver bank locations.
+- [x] Analyzed sender–receiver geographic routes.
 - [ ] Develop AML detection rules.
 - [ ] Build and evaluate machine learning models.
 - [ ] Develop data engineering workflows.
